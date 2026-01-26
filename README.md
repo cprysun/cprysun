@@ -107,7 +107,7 @@
 
   <div align="center">
     <p><b><i><ins>GAMES:</ins></i></b></p>
-    <p>Fire Emblem: Roy, Eliwood, Alcryst, Fogado, Ike, Chrom, Henry, Sully, Alear, Virion</p>
+    <p>Fire Emblem: Roy, Eliwood, Alcryst, Diamant, Fogado, Ike, Chrom, Henry, Sully, Alear, Virion</p>
     <p>Kid Icarus: Pit, Dark Pit</p>
     <p>Super Mario: Mario, Luigi (+ Mr. L), Daisy, Toad, Dimentio</p>
     <p>Ace Attorney: Miles Edgeworth, Matt Engarde</p>
