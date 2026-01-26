@@ -7,6 +7,7 @@
   <img src="https://cdn.donmai.us/sample/d4/ea/__alcryst_and_diamant_fire_emblem_and_1_more_drawn_by_wogesb__sample-d4ea2316b1dce9d8226eb365a1445375.jpg" height="420"; width="420"/>
 </p>
 <br>
+<p align="center">​🇳​​🇪​​🇷​​🇴​ • ​🇸​​🇭​​🇪​/​🇭​​🇪​ • ​🇸​​🇮​​🇬​​🇳​ ​🇦​​🇹​​🇦​ !! • 🇧​​🇷​​🇴​​🇩​​🇮​​🇦​ ​🇨​​🇮​​🇹​​🇮​​🇿​​🇪​​🇳​ ​🇫​​🇴​​🇷​ ​🇷​​🇪​​🇦​​🇱​, ​🇩​​🇮​​🇦​​🇲​​🇦​​🇳​​🇹​❜​🇸​ ​🇧​​🇪​​🇦​​🇺​​🇹​​🇮​​🇫​​🇺​​🇱​ ​🇼​​🇮​​🇫​​🇪​​
 <p align="center">
   <img src="https://dividers.crd.co/assets/images/gallery04/1196d7bc.png?v=05d33f91"/>
 </p>
@@ -20,6 +21,7 @@
     <p>i use she/he pronouns, and i am agender, queer, and lithromantic</p>
     <p>i am russian-american, currently living in america (unfortunately)</p>
     <p>my favorite colors are all reds and greenish-blues</p>
+    <p>i selfship!! with a plethora of characters, but i particularly love Diamant from FE Engage right now</p>
     <p>i am very self-conscious and care deeply about what others think of me</p>
   </div>
 </details>
