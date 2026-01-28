@@ -74,7 +74,7 @@
     <p>Miitopia</p>
     <p>Rhythm Heaven (all of them)</p>
     <p>Ace Attorney (all of them, but Trilogy most of all)</p>
-    <p>Roblox (Tornado Alley Ultimate, Decaying Winter, Dandy's World, Daybreak 2, Carnage)</p>
+    <p>Roblox (Tornado Alley Ultimate, Decaying Winter, Daybreak 2, Carnage)</p>
     <p>Danganronpa (not UDG)</p>
     <p>Dispatch</p>
     <p>HATSUNE MIKU: COLORFUL STAGE! / Project Sekai</p>
@@ -114,7 +114,6 @@
     <p>Kid Icarus: Pit, Dark Pit</p>
     <p>Super Mario: Mario, Luigi (+ Mr. L), Daisy, Toad, Dimentio</p>
     <p>Ace Attorney: Miles Edgeworth, Matt Engarde</p>
-    <p>Dandy's World: Looey, Blot, Yatta, Sprout</p>
     <p>Daybreak 2: Emery Rivera</p>
     <p>Danganronpa: Kiyotaka Ishimaru, Aoi Asahina, Makoto Naegi, Ibuki Mioda, Gundham Tanaka, Sonia Nevermind, Kazuichi Soda, K1-B0, Rantaro Amami, Shuichi Saihara, Angie Yonaga</p>
     <p>Dispatch: Flambae, Prism</p>
