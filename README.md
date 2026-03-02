@@ -4,10 +4,10 @@
 <br>
 
 <p align="center">
-  <img src="https://cdn.donmai.us/sample/d4/ea/__alcryst_and_diamant_fire_emblem_and_1_more_drawn_by_wogesb__sample-d4ea2316b1dce9d8226eb365a1445375.jpg" height="420"; width="420"/>
+  <img src="https://cdn.donmai.us/sample/8a/56/__ivy_kagetsu_and_zelkov_fire_emblem_and_1_more_drawn_by_tencryingemojis__sample-8a5615d0c5f6830877f8f394b6badca3.jpg" height="600"; width="420"/>
 </p>
 <br>
-<p align="center"><sup>NERO • SHE/HE • SIGN ATA • BRODIA CITIZEN FO REAL, DIAMANT'S BEAUTIFUL WIFE</sup>
+<p align="center"><sup>NERO • SHE/HE • SIGN ATA • KAGETSU WHAT THE FUCK ARE YOU DOING!!!!!!!!</sup>
   ​​
 <p align="center">
   <img src="https://dividers.crd.co/assets/images/gallery04/1196d7bc.png?v=05d33f91"/>
@@ -20,25 +20,10 @@
   <div align="center">
     <p>hey ^_^ call me nero!! nicknames are fine as well</p>
     <p>i use she/he pronouns, and i am agender, queer, and lithromantic</p>
-    <p>i am russian-american, currently living in america (unfortunately)</p>
-    <p>my favorite colors are all reds and greenish-blues</p>
-    <p>i selfship!! with a plethora of characters, but i particularly love Diamant from FE Engage right now</p>
+    <p>i live in america. anyone wanna come save me</p>
+    <p>my favorite colors are all reds and sea greens</p>
+    <p>i selfship... PREPARES FOR TOMATOES</p>
     <p>i am very self-conscious and care deeply about what others think of me</p>
-  </div>
-</details>
-
-<br>
-
-<details align="center">
-  <summary>​ｐｏｎｙｔｏｗｎ ｓｐｅｃｉｆｉｃ​ °˖➴</summary>
-
-  <div align="center">
-    <p>i... typically just sit there while i watch youtube or play games, never offtab though because disconnect blehhh</p>
-    <p>you can find me in or around the bakery most often, other times im on the path below spawn</p>
-    <p>if i like/recognize your pony i will whisper you with a crown because im just like that... heh</p>
-    <p>i love signing ppls atabooks!!! it would be so cool if you signed mine too winkkkk</p>
-    <p>i'm pretty shy but i am cuddle friendly!! very appreciated!! you can hide aswell but please dont hide me!!</p>
-    <p>even though i'm shy, if you wanna strike up conversation i'll happily talk!!! just that i'm terrible at starting conversations...!!!</p>
   </div>
 </details>
 
@@ -48,7 +33,8 @@
   <summary>ｂｅｆｏｒｅ ｙｏｕ ｉｎｔｅｒａｃｔ​ °˖➴</summary>
 
   <div align="center">
-    <p>honestly i am... uhhh kinda easily annoyed... beware please</p>
+    <p>i'm weird. but like actually. i am an embarrassment to be around</p>
+    <p>honestly i am... uhhh kinda easily annoyed... and i'll let you know when i am... beware please</p>
     <p>i'm kinda slow. please feel free to educate me on anything you need to and/or tell me im BEING slow because its... a lot more often than you might think</p>
     <p>i get kinda jealous with my favs. dont get me wrong im glad other people like my favs too, i just get nervous when people seem to like them more than me if that makes sense</p>
     <p>im a yapper if you cant already tell by this page</p>
@@ -67,6 +53,7 @@
   <summary>ｆａｎｄｏｍｓ °˖➴</summary>
 
   <div align="center">
+    <p><sub>Small little disclaimer I don't really give a shit about half of these, but I put them here just because I know them and will talk about them if they're brought up yk</sub></p>
     <p><b><i><ins>GAMES:</ins></i></b></p>
     <p>Fire Emblem (all of them, but Engage, Binding Blade, Path of Radiance, Radiant Dawn, and Heroes most of all)</p>
     <p>Kid Icarus (all of them)</p>
@@ -110,7 +97,7 @@
 
   <div align="center">
     <p><b><i><ins>GAMES:</ins></i></b></p>
-    <p>Fire Emblem: Roy, Eliwood, Alcryst, Diamant, Fogado, Ike, Chrom, Henry, Sully, Alear, Virion</p>
+    <p>Fire Emblem: Roy, Seliph, Eliwood, Ike, Ryoma, Alcryst, Diamant, Fogado, Kagetsu, Zelkov, Ivy Pandreo</p>
     <p>Kid Icarus: Pit, Dark Pit</p>
     <p>Super Mario: Mario, Luigi (+ Mr. L), Daisy, Toad, Dimentio</p>
     <p>Ace Attorney: Miles Edgeworth, Matt Engarde</p>
@@ -142,4 +129,4 @@
 </p>
 <br>
 
-<p align="center">k das it... sign ata or leave a msg on strawpage ^_^</p>
+<p align="center">ok thanks... i like... have an atabook and strawpage too... they dont say anything new its just places where you can leave me a little message if you want........ check it out OK THANKS BYE BYE</p>
