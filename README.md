@@ -70,6 +70,7 @@
     <p><b><i><ins>SHOWS / MOVIES:</ins></i></b></p>
     <p>The Maze Runner (all of them, books as well)</p>
     <p>Squid Game</p>
+    <p>Gachiakuta (+ manga)</p>
     <p>Alice in Borderland</p>
     <p>My Hero Academia</p>
     <p>SMG4</p>
@@ -110,6 +111,7 @@
     <p><b><i><ins>SHOWS / MOVIES:</ins></i></b></p>
     <p>The Maze Runner: Thomas, Minho, Gally, Brenda</p>
     <p>Squid Game: Kang Dae-ho (Player 388), Nam-gyu (Player 124), Ali Abdul (Player 199), Cho Sang-woo (Player 218)</p>
+    <p>Gachiakuta: Zanka, Tamsy, Jabber, Riyo</p>
     <p>Alice in Borderland: Shuntaro Chishiya</p>
     <p>My Hero Academia: Tenya Iida, Kosei Tsuburaba, Shoto Todoroki</p>
     <p>SMG4: Niles, Bob, Luigi, SMG3</p>
