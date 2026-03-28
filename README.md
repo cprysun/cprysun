@@ -4,10 +4,10 @@
 <br>
 
 <p align="center">
-  <img src="https://cdn.donmai.us/sample/6a/42/__ivy_male_alear_kagetsu_and_zelkov_fire_emblem_and_1_more_drawn_by_kuhaha__sample-6a42f748d40dd92d602a3604b9dacce3.jpg" height="800"; width="620"/>
+  <img src="https://cdn.donmai.us/sample/4b/bc/__luigi_and_cloud_luigi_mario_and_1_more_drawn_by_da_tannamidaame__sample-4bbcb3df5bfabde2e7aacea5cd4a9065.jpg" height="500"; width="310"/>
 </p>
 <br>
-<p align="center"><sup>NERO • SHE/HE • SIGN ATA • ZELKOV. ALEAR. WHAT THE FUCK ARE YOU DOING!!!!!!!!</sup>
+<p align="center"><sup>NERO • SHE/HE • SIGN ATA • LUIGI WHAT THE FUCK</sup>
   ​​
 <p align="center">
   <img src="https://dividers.crd.co/assets/images/gallery04/1196d7bc.png?v=05d33f91"/>
