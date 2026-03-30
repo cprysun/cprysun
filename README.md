@@ -4,10 +4,10 @@
 <br>
 
 <p align="center">
-  <img src="https://cdn.donmai.us/sample/4b/bc/__luigi_and_cloud_luigi_mario_and_1_more_drawn_by_da_tannamidaame__sample-4bbcb3df5bfabde2e7aacea5cd4a9065.jpg" height="500"; width="310"/>
+  <img src="https://i.imgur.com/2sezcoF.png" height="500"; width="410"/>
 </p>
 <br>
-<p align="center"><sup>NERO • SHE/HE • SIGN ATA • LUIGI WHAT THE FUCK</sup>
+<p align="center"><sup>NERO • SHE/HE • SIGN ATA • I FUCKING LOVE BLOT</sup>
   ​​
 <p align="center">
   <img src="https://dividers.crd.co/assets/images/gallery04/1196d7bc.png?v=05d33f91"/>
@@ -61,7 +61,7 @@
     <p>Miitopia</p>
     <p>Rhythm Heaven (all of them)</p>
     <p>Ace Attorney (all of them, but Trilogy most of all)</p>
-    <p>Roblox (Tornado Alley Ultimate, Decaying Winter, Daybreak 2, Carnage)</p>
+    <p>Roblox (Tornado Alley Ultimate, Decaying Winter, Daybreak 2, Carnage, Dandy's World)</p>
     <p>Danganronpa (not UDG)</p>
     <p>Dispatch</p>
     <p>HATSUNE MIKU: COLORFUL STAGE! / Project Sekai</p>
@@ -108,6 +108,7 @@
     <p>Project Sekai: Tsukasa Tenma, Honami Mochizuki</p>
     <p>Team Fortress 2: Medic, Engineer</p>
     <p>Animal Crossing: Genji</p>
+    <p>Dandy's World: Blot, Astro, Soulvester</p>
     <p><b><i><ins>SHOWS / MOVIES:</ins></i></b></p>
     <p>The Maze Runner: Thomas, Minho, Gally, Brenda</p>
     <p>Squid Game: Kang Dae-ho (Player 388), Nam-gyu (Player 124), Ali Abdul (Player 199), Cho Sang-woo (Player 218)</p>
@@ -131,4 +132,5 @@
 </p>
 <br>
 
-<p align="center">ok thanks... i like... have an atabook and strawpage too... they dont say anything new its just places where you can leave me a little message if you want........ check it out OK THANKS BYE BYE</p>
+<p align="center">other links : <a href="https://en.pronouns.page/@cprysun">pronouns page</a> • <a href="https://cprysun.straw.page/">strawpage</a> • <a href="https://cprysun.atabook.org/">atabook</a>
+</p>
