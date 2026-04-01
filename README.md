@@ -55,13 +55,13 @@
   <div align="center">
     <p><sub>Small little disclaimer I don't really give a shit about half of these, but I put them here just because I know them and will talk about them if they're brought up yk</sub></p>
     <p><b><i><ins>GAMES:</ins></i></b></p>
-    <p>Fire Emblem (all of them, but Engage, Binding Blade, Path of Radiance, Radiant Dawn, and Heroes most of all)</p>
+    <p>Fire Emblem (all of them, but Engage, Binding + Blazing Blade, Path of Radiance + Radiant Dawn, and Heroes most of all)</p>
     <p>Kid Icarus (all of them)</p>
     <p>Super Mario (all of them, but Super Paper Mario and Mario Kart 8 Deluxe most of all)</p>
     <p>Miitopia</p>
     <p>Rhythm Heaven (all of them)</p>
     <p>Ace Attorney (all of them, but Trilogy most of all)</p>
-    <p>Roblox (Tornado Alley Ultimate, Decaying Winter, Daybreak 2, Carnage, Dandy's World)</p>
+    <p>Roblox (Tornado Alley Ultimate, Decaying Winter + Demise of Eden, Royale High, Carnage, Dandy's World)</p>
     <p>Danganronpa (not UDG)</p>
     <p>Dispatch</p>
     <p>HATSUNE MIKU: COLORFUL STAGE! / Project Sekai</p>
@@ -102,7 +102,6 @@
     <p>Kid Icarus: Pit, Dark Pit</p>
     <p>Super Mario: Mario, Luigi (+ Mr. L), Daisy, Toad, Dimentio</p>
     <p>Ace Attorney: Miles Edgeworth, Matt Engarde</p>
-    <p>Daybreak 2: Emery Rivera</p>
     <p>Danganronpa: Kiyotaka Ishimaru, Aoi Asahina, Makoto Naegi, Ibuki Mioda, Gundham Tanaka, Sonia Nevermind, Kazuichi Soda, K1-B0, Rantaro Amami, Shuichi Saihara, Angie Yonaga</p>
     <p>Dispatch: Flambae, Prism</p>
     <p>Project Sekai: Tsukasa Tenma, Honami Mochizuki</p>
